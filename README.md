@@ -17,7 +17,7 @@ Hi! I'm **Carl**, a passionate developer who loves to build and create amazing t
 - 🌱 I'm constantly learning and exploring **new technologies**
 - 💡 I love collaborating on **open-source projects**
 - 💬 Ask me about **coding, tech, and anything interesting!**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **your.email@example.com** (replace with your email)
 - ⚡ Fun fact: **I code better with coffee ☕**
 
 ---
@@ -109,6 +109,12 @@ Hi! I'm **Carl**, a passionate developer who loves to build and create amazing t
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
+
+<!-- Replace the URLs above with your actual social media links -->
+<!-- For LinkedIn: https://linkedin.com/in/your-linkedin-username -->
+<!-- For Twitter: https://twitter.com/your-twitter-handle -->
+<!-- For Email: your.actual.email@example.com -->
+<!-- For Website: https://your-website.com -->
 
 ---
 
