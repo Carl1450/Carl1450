@@ -18,7 +18,7 @@ Hi! I'm **Carl**, a passionate developer who loves to build and create amazing t
 - 💡 I love collaborating on **open-source projects**
 - 💬 Ask me about **coding, tech, and anything interesting!**
 - 📫 How to reach me: **rasmussen5568@gmail.com**
-- ⚡ Fun fact: **I code better with coffee ☕**
+- ⚡ Fun fact: **I code better with MONSTER ☕**
 
 ---
 
